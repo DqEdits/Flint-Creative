@@ -3,7 +3,7 @@
 <head>
 <style>
 .class { 
-	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-family: Candara; 
 }
 
 </style>
