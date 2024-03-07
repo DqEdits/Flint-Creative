@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h1>Flint </h1>
+<h1>Flint Creative</h1>
 <p class="class">This is a paragraph, shown in the Times New Roman font.</p>
 
 </body>
