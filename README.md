@@ -2,8 +2,8 @@
 <html>
 <head>
 <style>
-.p1 {
-  font-family: "Candara", Times, serif;
+.class { 
+	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
 }
 
 </style>
