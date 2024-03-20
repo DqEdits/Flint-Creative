@@ -6,8 +6,7 @@
             background-color: #333;
             color: white;
             padding: 10px;
-            text-align: center;
-            border-bottom: 2px solid black; /* Adding a bar at the bottom */
+            text-align: left;
             position: relative; /* To position the bar */
         }
         header::before {
@@ -17,14 +16,18 @@
             left: 0;
             width: 100%;
             height: 2px; /* Height of the bar */
-            background-color: black; /* Color of the bar */
+        }
+                .logo {
+            width: 50px; /* Set the width of the logo */
+            height: auto; /* Maintain aspect ratio */
+            margin-right: 10px; /* Add some space between logo and text */
         }
     </style>
 </head>
 <body>
 
 <header>
-    This is the header with a bar
+    <img src="file:///Users/chasematthewwashington/Downloads/Screen%20Shot%202024-03-20%20at%2012.35.07%20PM.png" class="logo">
 </header>
 
 </body>
