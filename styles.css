@@ -1,23 +1,15 @@
-/* Place your CSS styles in this file */
-
-
-h1 {
-    text-align: center;
-    font-family: "Gill Sans", sans-serif;
-    font-weight: normal;
-    font-size: 70px;
+p2 {
+  text-align: center;
 }
 
-
-h1 {
-  color: rgb(255, 255, 255);
-  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: rgb(255, 255, 255);
-}
-
-
-body {
- background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/97989fd7-a385-4395-84f4-1a800620c5cd/dzyp41-da60e96b-5c10-4df1-98d7-3ddf417fd719.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk3OTg5ZmQ3LWEzODUtNDM5NS04NGY0LTFhODAwNjIwYzVjZFwvZHp5cDQxLWRhNjBlOTZiLTVjMTAtNGRmMS05OGQ3LTNkZGY0MTdmZDcxOS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gbmIYIvJlqoiWVQ_xK8rJWPcuMF6yCLeDj1GfleHYck");
+.background {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 600px;
+    background-image: url('https://i0.pickpik.com/photos/630/356/961/sand-pattern-wave-texture-preview.jpg');
+    background-position: center;
+    background-repeat: repeat-x;
+    z-index: -100;
 }
 
